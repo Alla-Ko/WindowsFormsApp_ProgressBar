@@ -1,0 +1,12 @@
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\bin\Debug\WindowsFormsApp_ProgressBar.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\bin\Debug\WindowsFormsApp_ProgressBar.exe
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\bin\Debug\WindowsFormsApp_ProgressBar.pdb
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.exe
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.pdb
+C:\Alla\C#_proj\WindowsFormsApp_ProgressBar\obj\Debug\WindowsFormsApp_ProgressBar.Resource1.resources
